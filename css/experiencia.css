@@ -131,6 +131,9 @@
     width: initial;
     text-align: left;
   }
+  .empresa::before {
+    display: none;
+  }
 }
 
 @media (max-width: 400px) {
